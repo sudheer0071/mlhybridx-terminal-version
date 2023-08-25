@@ -1,5 +1,4 @@
-# Project Name : mlhybridx
-#### Video Demo:  <URL HERE>
+# mlxhybrid terminal version
 #### Description:
 This project focuses on the implementation of fundamental machine learning algorithms from scratch. The primary goal is to gain a deep understanding of how these algorithms work by coding them manually. By implementing algorithms like linear regression and logistic regression, we can explore their inner workings, mathematical foundations, and practical applications.
 
