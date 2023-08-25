@@ -10,7 +10,7 @@ It is a basic algorithm for predicting a continuous target variable based on one
 ### How to use it?
 
 All you have to do just clone it from git hub repo whose link is shared and voila !!
-its ready to use now just run the project.py file and follow the details as per the instructions.
+its ready to use now just run the project.py file which is inside the mlhybridx folder and follow the details as per the instructions.
 
 ### Usage
 Here in this module there are two modes: 
@@ -45,7 +45,7 @@ mlhybridx · TestPyPI
 
 Github Repo(for module version): [mlhybridx Module ](https://github.com/sudheer0071/MLHybridX)
 
-Github Repo(for terminal version): [mlhybridx terminal-version](https://github.com/sudheer0071/MLHybridX)
+Github Repo(for terminal version): [mlhybridx terminal-version](https://github.com/sudheer0071/mlhybridx-terminal-version/tree/main)
 
 ![](https://skillicons.dev/icons?i=github)
 ![My Skills](https://skillicons.dev/icons?i=py,git)
